@@ -1,0 +1,1 @@
+1) Teria sugestões de plugins para lint e error signaling para C# no VS code?
